@@ -50,6 +50,6 @@ This project is a basic implementation of a **Retrieval-Augmented Generation (RA
 3. Create a .env file with your credentials:
          OPENAI_API_KEY=your-openai-key
          SINGLESTORE_PASSWORD=your-password
-
- 4. Run the script:
+ 4. Create a vector DB in Singlestore 
+ 5. Run the script:
         python agentic_rag_system.py
